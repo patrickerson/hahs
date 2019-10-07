@@ -1,0 +1,25 @@
+I - Método sem melhorias:   usr1 : aec07f935649a5b028c070251f617de7
+I - Método sem melhorias:   usr2 : ff5f75a9e37a4f984d74a8d87c5b5027
+I - Método sem melhorias:   usr4 : 098f6bcd4621d373cade4e832627b4f6
+I - Método sem melhorias:   usr5 : 74b87337454200d4d33f80c4663dc5e5
+
+
+I I I - Método melhorado:   aapt : d8e864d00877aaf5bc33eb33a703ba15
+I I I - Método melhorado:   imtl : 3bb5e897a0f16d8313a4111b91e7977b
+I I I - Método melhorado:   aapt : eb9166ae076c9d64fa48c2c64561af37
+I I I - Método melhorado:   aapt : d8e864d00877aaf5bc33eb33a703ba15cszOAPHi: cszOAPHi
+I I I - Método melhorado:   imtl : 3bb5e897a0f16d8313a4111b91e7977bnsHbfJTC: nsHbfJTC
+I I I - Método melhorado:   aapt : eb9166ae076c9d64fa48c2c64561af37rhdgmcAq: rhdgmcAq
+I I I - Método melhorado:   aapt : 0bf3712717f1d148a0cb40d9ea54a683 : uaCXkrQuCRucOxsP
+I I I - Método melhorado:   imwl : e063f0726247acf72cf7eaa1e399f0c3 : bwfkPyLaZjxmOwUy
+I I I - Método melhorado:   imtl : f836c89293b5d62c0c1848fffd546e7f : kKulrnFgwLysNrPK
+I I I - Método melhorado:   aapt : 8e3f6f929b00265fe2772c86e060f6d1 : LwSlwfDxQiWNllgh
+I I I - Método melhorado:   tttt : a580948cf6455f926b8e79295157f369 : SoLgcTETIdrVKORo
+I I I - Método melhorado:   aapt : 45aa0d8fea90c2c5a05438701e45f281 : uXNzcBaVkfTXPHVm
+I I I - Método melhorado:   imwl : c5f1968b2b2863c1289736a678d74115 : xOCOgpPIIvgvblXx
+I I I - Método melhorado:   imtl : 7373b8b0d3d8197609ccdf62843ec9df : AXnGBmhobDhqtYJi
+I I I - Método melhorado:   aapt : 750779c746da5cfd7e1e1c760662163d : vZFMEfThhtCXhLZp
+I I I - Método melhorado:   tttt : 40343f56d475b12a89978eebcc7b2383 : MnBXlBmvdKMqoPdv
+I I I - Método melhorado:   aapt : d8e864d00877aaf5bc33eb33a703ba15RLzowlteUffQUDTC : RLzowlteUffQUDTC
+I I I - Método melhorado:   imtl : 3bb5e897a0f16d8313a4111b91e7977bGyoVzQXZZJlibQIn : GyoVzQXZZJlibQIn
+I I I - Método melhorado:   aapt : eb9166ae076c9d64fa48c2c64561af37lCtGQtQcbuIQWjFl : lCtGQtQcbuIQWjFl
